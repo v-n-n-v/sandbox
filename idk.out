@@ -1,0 +1,80 @@
+PS C:\Users\catra\sandbox\sandbox> & "C:/Program Files/Python313/python.exe" c:/Users/catra/sandbox/sandbox/idk.py
+Enter a URL: https://www.reddit.com/r/typing/comments/1irr3e8/flair_request_now_is_the_time/
+
+DevTools listening on ws://127.0.0.1:64364/devtools/browser/1d04e86e-b0e9-4d49-bc40-a783369c49a6
+[17224:14904:0220/213207.163:ERROR:ssl_client_socket_impl.cc(877)] handshake failed; returned -1, SSL error code 1, net_error -201
+{
+    "davidguy207": [
+        "https://monkeytype.com/profile/davidguy207",
+        "-"
+    ],
+    "Bentleydadog": [
+        "https://monkeytype.com/profile/Bentleydadog",
+        "113"
+    ],
+    "gyroqx": [
+        "https://monkeytype.com/profile/gyroz",
+        "71"
+    ],
+    "Unhappy_Laugh3455": [
+        "https://monkeytype.com/profile/bamoyski",
+        "85"
+    ],
+    "854490": [
+        "https://monkeytype.com/profile/854490",
+        "166"
+    ],
+    "Jchen76201": [
+        "https://monkeytype.com/profile/WishfulOA",
+        "152"
+    ],
+    "danielfern": [
+        "https://monkeytype.com/profile/danfbfern",
+        "94"
+    ],
+    "auspisses": [
+        "https://monkeytype.com/profile/auspices",
+        "-"
+    ],
+    "BlendedBanana0307": [
+        "https://monkeytype.com/profile/Nixlekk",
+        "152"
+    ],
+    "jerrydberry": [
+        "https://monkeytype.com/profile/yarilo",
+        "50"
+    ],
+    "Unfunny_guy0": [
+        "https://monkeytype.com/profile/yubint",
+        "126"
+    ],
+    "dig_it_all": [
+        "https://monkeytype.com/profile/DFYHF",
+        "100"
+    ],
+    "cliobytes": [
+        "https://monkeytype.com/profile/cliobytes",
+        "116"
+    ],
+    "Accomplished-Bus3382": [
+        "https://monkeytype.com/profile/Eddan",
+        "-"
+    ],
+    "WeatherGood2509": [
+        "https://monkeytype.com/profile/SoulCrusher",
+        "-"
+    ],
+    "xBoAOV": [
+        "https://monkeytype.com/profile/xBawX",
+        "-"
+    ],
+    "FstMario": [
+        "https://monkeytype.com/profile/FstMario",
+        "-"
+    ],
+    "YesterdaySea7803": [
+        "https://monkeytype.com/profile/%5C_nix",
+        "-"
+    ]
+}
+PS C:\Users\catra\sandbox\sandbox> 
