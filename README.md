@@ -1,5 +1,7 @@
 # /r/typing auto WPM flair 
 
+https://github.com/user-attachments/assets/38f80924-475e-429a-8732-daaedda3ac0a
+
 ## Dependencies 
 
 - Python 3
