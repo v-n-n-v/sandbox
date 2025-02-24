@@ -1,8 +1,12 @@
 # Take a URL from stdin (prompt)
 # If the URL contains "www.reddit.com", replace this substring with "old.reddit.com"
-# Curl the URL and extract all links matching /https:\/\/monkeytype\.com\/profile\/[^>]+/ from the html; put them in a defaultdict as the first values; for each first value, the key is the username that appears in the nearest previous p.tagline > a.author 
-# for each first value, use Selenium to browse to the monkeytype.com/profile url and extract .pbsTime > .group:nth-of-type(3) > .quick > .wpm;  assign this value as the second value in the defaultdict
-# print the defaultdict as a json object
+# Curl the URL and extract all links matching /https:\/\/monkeytype\.com\/profile\/[^>]+/ from the html; 
+# put them in a defaultdict as the first values; 
+# for each first value, the key is the username that appears in the nearest previous p.tagline > a.author 
+# For each first value, use Selenium to browse to the monkeytype.com/profile url;
+# wait until 'div[class=\'pbsTime\'] div:nth-child(3) div:nth-child(1) div:nth-child(2)' is visible AND contains numbers;
+# assign this value as the second value in the defaultdict
+# Print the defaultdict as a json object
 
 import re
 import json
