@@ -14,7 +14,19 @@ python -m pip install webdriver_manager
 python -m pip install praw
 ```
 
+## Reddit Setup
+
+Create a **personal use script** at https://www.reddit.com/prefs/apps  
+
+- Name: any  
+- Desc: any  
+- About URL: blank  
+- Redirect URL: https://reddit.com/ or any  
+
+## Script Setup
+
+Configure Python Reddit API Wrapper (PRAW) in lines 74-78  
+
 ## Usage
 
-1. Configure Python Reddit API Wrapper (PRAW) in lines 74-78  
-2. Run the script and enter the URL to a reddit comment page with monkeytype profile URLs 
+Run the script and enter the URL to a reddit comment page with monkeytype profile URLs 
